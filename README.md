@@ -32,7 +32,7 @@
 | 🎰 | **Celex Casino & Terminal** | Hobby web apps, live at [celexstrategy.com](https://celexstrategy.com) | HTML · JS |
 | 🌱 | **TaskGarden** | Self-hosted to-do app with multi-device sync | JS · Docker |
 | 🔄 | [**taskgarden-sync**](https://github.com/Lxx464/taskgarden-sync) | Blob store so TaskGarden syncs without Google Drive | JS |
-| 🛍️ | **Sunshineela's Kreativwelt** | Online shop with Stripe payments, live at [sunshineelaskreativwelt.de](https://sunshineelaskreativwelt.de) | React · Node.js · Docker |
+| 🛍️ | **Online Shop** | Full-stack e-commerce shop with Stripe payments, in production | React · Node.js · Docker |
 | 🤖 | **clanwar-helper** | Discord bot for a gaming community | Node.js |
 
 ### 🖥️ Homelab
