@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Lxx+%F0%9F%91%8B;Web+Developer+%26+Self-Hoster;IT+Student+from+Germany" alt="Typing intro">
+<h1>Hi, I'm Lxx 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&height=32&lines=Web+Developer;Self-Hoster+%26+Homelab+Enthusiast;IT+Student+from+Germany" alt="Typing roles">
 
 <p>I build web apps and run them on my own home server — from code to container to domain.</p>
 
@@ -14,7 +16,7 @@
 
 ### 🚀 About me
 
-- 🎓 IT student (Informationstechnischer Assistent) in Germany
+- 🎓 IT student in Germany
 - 🛠️ Building full-stack web projects and shipping them myself
 - 🖥️ Running my own homelab: NAS, Docker, reverse proxy, custom domains
 - 🌱 Currently learning **Java**
