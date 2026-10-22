@@ -43,9 +43,5 @@ Everything above runs on my own hardware:
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lxx464&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lxx464&theme=github-compact&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF" alt="Activity graph">
+  <img src="https://streak-stats.demolab.com?user=Lxx464&theme=github-dark-blue&hide_border=true&background=0D1117&hide_current_streak=true&ring=A78BFA&fire=A78BFA&currStreakNum=A78BFA&sideNums=A78BFA" alt="Contribution stats">
 </p>
