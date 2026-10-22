@@ -16,7 +16,6 @@
 
 ### 🚀 About me
 
-- 🎓 IT student in Germany
 - 🛠️ Building full-stack web projects and shipping them myself
 - 🖥️ Running my own homelab: NAS, Docker, reverse proxy, custom domains
 - 🌱 Currently learning **Java**
