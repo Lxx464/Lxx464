@@ -1,51 +1,51 @@
-<h1 align="center">Hi, I'm Luca 👋</h1>
+<div align="center">
 
-<p align="center">
-  IT student from Germany · I build web apps and self-host everything on my own home server.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Luca+%F0%9F%91%8B;Web+Developer+%26+Self-Hoster;IT+Student+from+Germany" alt="Typing intro">
 
-<p align="center">
-  <a href="https://celexstrategy.com"><img src="https://img.shields.io/badge/Website-celexstrategy.com-7c3aed?style=flat-square" alt="Website"></a>
-  <a href="https://github.com/CELEX-STRATEGY"><img src="https://img.shields.io/badge/Org-CELEX--STRATEGY-24292f?style=flat-square&logo=github" alt="Organization"></a>
-</p>
+<p>I build web apps and run them on my own home server — from code to container to domain.</p>
+
+<a href="https://celexstrategy.com"><img src="https://img.shields.io/badge/celexstrategy.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://github.com/CELEX-STRATEGY"><img src="https://img.shields.io/badge/CELEX--STRATEGY-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Organization"></a>
+<a href="https://x.com/lxx464"><img src="https://img.shields.io/badge/@lxx464-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+
+</div>
 
 ---
 
 ### 🚀 About me
 
-- 🎓 Studying IT (Informationstechnischer Assistent) in Germany
-- 🛠️ Building full-stack web projects and running them in Docker on my own NAS
-- 🏠 Tinkering with Home Assistant and home automation
+- 🎓 IT student (Informationstechnischer Assistent) in Germany
+- 🛠️ Building full-stack web projects and shipping them myself
+- 🖥️ Running my own homelab: NAS, Docker, reverse proxy, custom domains
 - 🌱 Currently learning **Java**
 
 ### 🧰 Tech stack
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white" alt="Home Assistant">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,java,docker,linux,git,vscode&theme=dark" alt="Tech stack">
 </p>
 
 ### 📂 Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Celex Casino / Celex Terminal** | Hobby web apps at [celexstrategy.com](https://celexstrategy.com) | HTML, JavaScript |
-| **TaskGarden** | My own to-do app with multi-device sync | JavaScript, Docker |
-| [**taskgarden-sync**](https://github.com/Lxx464/taskgarden-sync) | Blob store so TaskGarden syncs without Google Drive | JavaScript |
-| **Sunshineela's Kreativwelt** | Online shop with Stripe payments | React, Node.js, Docker |
-| **clanwar-helper** | Discord bot for a gaming community | Node.js |
+| | Project | What it is | Stack |
+|:-:|---|---|---|
+| 🎰 | **Celex Casino & Terminal** | Hobby web apps, live at [celexstrategy.com](https://celexstrategy.com) | HTML · JS |
+| 🌱 | **TaskGarden** | Self-hosted to-do app with multi-device sync | JS · Docker |
+| 🔄 | [**taskgarden-sync**](https://github.com/Lxx464/taskgarden-sync) | Blob store so TaskGarden syncs without Google Drive | JS |
+| 🛍️ | **Sunshineela's Kreativwelt** | Online shop with Stripe payments, live at [sunshineelaskreativwelt.de](https://sunshineelaskreativwelt.de) | React · Node.js · Docker |
+| 🤖 | **clanwar-helper** | Discord bot for a gaming community | Node.js |
 
-### 📊 GitHub stats
+### 🖥️ Homelab
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lxx464&show_icons=true&count_private=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lxx464&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+Everything above runs on my own hardware:
+**UGREEN NAS** · **Docker** stacks · reverse proxy with **Let's Encrypt** · custom domains · **Home Assistant** for home automation
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lxx464&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lxx464&theme=github-compact&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF" alt="Activity graph">
 </p>
