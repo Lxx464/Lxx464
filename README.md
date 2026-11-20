@@ -7,5 +7,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
-  <img src="assets/projects-light.svg" width="100%" alt="Selected work: Celex Capital, TaskGarden, taskgarden-sync, Online Shop, clanwar-helper, GeoGuessr Lernseite">
+  <img src="assets/projects-light.svg" width="100%" alt="Selected work: Celex Capital, TaskGarden, taskgarden-sync, Online Shop, clanwar-helper, GeoGuessr Trainer">
 </picture>
